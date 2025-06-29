@@ -1,6 +1,6 @@
 # Crypto Research Crew
 
-Welcome to the Crypto Research Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system focused on cryptocurrency and blockchain research with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on crypto research tasks, maximizing their collective intelligence and capabilities in analyzing market trends, DeFi protocols, and blockchain innovations.
+Welcome to the Basic AI Agent Crypto Research Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system focused on cryptocurrency and blockchain research with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on crypto research tasks, maximizing their collective intelligence and capabilities in analyzing market trends, DeFi protocols, and blockchain innovations.
 
 ## Installation
 
@@ -46,12 +46,4 @@ The Crypto Research Crew is composed of multiple AI agents, each with unique rol
 - **Crypto Researcher**: Specialized in uncovering cutting-edge developments in cryptocurrency markets, DeFi protocols, and blockchain technology
 - **Reporting Analyst**: Creates detailed reports based on crypto data analysis and research findings
 
-## Support
 
-For support, questions, or feedback regarding the Crypto Research Crew or crewAI.
-- Visit our [documentation](https://docs.crewai.com)
-- Reach out to us through our [GitHub repository](https://github.com/joaomdmoura/crewai)
-- [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
-- [Chat with our docs](https://chatg.pt/DWjSBZn)
-
-Let's create wonders together with the power and simplicity of crewAI in the cryptocurrency research space.
